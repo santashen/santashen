@@ -6,7 +6,7 @@
 - 📫 How to reach me: www.windsong.top
 - ⚡ Fun fact: I like karate.
 
-| <img align="center" src="https://github-readme-stats-kappa-lac-81.vercel.app/api?username=santashen&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Yang's github stats" /> | <img align="center" src="https://github-readme-stats-kappa-lac-81.vercel.app/api/top-langs/?username=santashen&layout=compact&theme=flag-india&hide_border=true&hide=javascript" /> |
+| <img align="center" src="https://github-readme-stats-kappa-lac-81.vercel.app/api?username=santashen&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Yang's github stats" /> | <img align="center" src="https://github-readme-stats-kappa-lac-81.vercel.app/api/top-langs/?username=santashen&layout=compact&theme=flag-india&hide_border=true&exclude_repo=github-readme-stats" /> |
 | ------------- | ------------- |
 
 <!--

@@ -6,7 +6,7 @@
 - 📫 How to reach me: www.windsong.top
 - ⚡ Fun fact: I like karate.
 
-![Yang's GitHub stats](github-readme-stats-kappa-lac-81.vercel.app/api?username=santashen&count_private=true&show_icons=true&theme=shadow_blue)
+![Yang's GitHub stats](https://github-readme-stats-kappa-lac-81.vercel.app/api?username=santashen&count_private=true&show_icons=true&theme=shadow_blue)
 
 <!--
 **santashen/santashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

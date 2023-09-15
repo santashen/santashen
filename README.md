@@ -1,4 +1,12 @@
-### Hi there 👋
+### ✨ Hi, I'm Yang ✨
+
+- 🔭 I’m currently working on a phonon Monte Carlo platform for GaN HEMTs, unfortunately due to the project limitations it's private.
+- 🌱 I’m currently learning software development.
+- 👯 I’m looking to collaborate on something...
+- 📫 How to reach me: www.windsong.top
+- ⚡ Fun fact: I like karate.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santashen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **santashen/santashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

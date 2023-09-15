@@ -1,12 +1,13 @@
 ### ✨ Hi, I'm Yang ✨
 
-- 🔭 I’m currently working on a phonon Monte Carlo platform for GaN HEMTs, unfortunately due to the project limitations it's private.
+- 🔭 I’m currently working on a phonon Monte Carlo platform for GaN HEMTs.
 - 🌱 I’m currently learning software development.
 - 👯 I’m looking to collaborate on something...
 - 📫 How to reach me: www.windsong.top
 - ⚡ Fun fact: I like karate.
 
-![Yang's GitHub stats](https://github-readme-stats-kappa-lac-81.vercel.app/api?username=santashen&count_private=true&show_icons=true&theme=shadow_blue)
+| <img align="center" src="https://github-readme-stats-kappa-lac-81.vercel.app/api?username=santashen&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Yang's github stats" /> | <img align="center" src="https://github-readme-stats-kappa-lac-81.vercel.app/api/top-langs/?username=santashen&layout=compact&theme=flag-india&hide_border=true&hide=javascript" /> |
+| ------------- | ------------- |
 
 <!--
 **santashen/santashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

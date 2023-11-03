@@ -1,6 +1,6 @@
 ### ✨ Hi, I'm Yang ✨
 
-- 🔭 I’m currently working on a phonon Monte Carlo platform for GaN HEMTs.
+- 🔭 I’m currently working on a multiscale thermal simulation and design platform for GaN HEMTs.
 - 🌱 I’m currently learning software development.
 - 👯 I’m looking to collaborate on something...
 - 📫 How to reach me: www.windsong.top
